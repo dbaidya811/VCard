@@ -1,11 +1,11 @@
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <div style="flex: 1;">
-    <h1>V Card Portfolio - README File</h1>
+<h1>V Card Portfolio</h1>
     
-  <h2>Project Overview</h2>
+ <h2>Project Overview</h2>
     <p>This is a modern, responsive vCard (virtual business card) portfolio website designed to showcase your professional identity online. It serves as a digital business card that can be easily shared with contacts.</p>
+
+  <a href="https://ibb.co/b52JhCJG"><img src="https://i.ibb.co/b52JhCJG/Screenshot-2025-06-13-23-09-23-677-com-android-chrome.png" alt="Screenshot-2025-06-13-23-09-23-677-com-android-chrome" border="0"></a>
     
-  <h2>Features</h2>
+   <h2>Features</h2>
     <ul>
       <li><strong>Responsive Design</strong>: Works on all devices (desktop, tablet, mobile)</li>
       <li><strong>Contact Information</strong>: Display your email, phone, and social media links</li>
@@ -15,10 +15,8 @@
       <li><strong>Light/Dark Mode</strong>: Toggle between color schemes</li>
     </ul>
     
-   <h2>File Structure</h2>
-    <pre> 
-      
-      ```
+    <h2>File Structure</h2>
+    <pre>
     /vcard-portfolio/
     ├── index.html          # Main HTML file
     ├── css/
@@ -30,12 +28,7 @@
     </pre>
   </div>
   
-  <div style="flex: 1; text-align: center;">
-    <a href="https://ibb.co/MxNJCRSS"><img src="https://i.ibb.co/MxNJCRSS/Screenshot-2025-06-13-23-09-23-677-com-android-chrome.png" alt="Screenshot-2025-06-13-23-09-23-677-com-android-chrome" border="0"></a>
-    
-  </div>
-</div>
-
+  
 <h2>Setup Instructions</h2>
 <ol>
   <li>Clone or download this repository</li>
