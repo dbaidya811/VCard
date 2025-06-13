@@ -1,44 +1,55 @@
-# V Card Portfolio
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <div style="flex: 1;">
+    <h1>V Card Portfolio - README File</h1>
+    
+  <h2>Project Overview</h2>
+    <p>This is a modern, responsive vCard (virtual business card) portfolio website designed to showcase your professional identity online. It serves as a digital business card that can be easily shared with contacts.</p>
+    
+  <h2>Features</h2>
+    <ul>
+      <li><strong>Responsive Design</strong>: Works on all devices (desktop, tablet, mobile)</li>
+      <li><strong>Contact Information</strong>: Display your email, phone, and social media links</li>
+      <li><strong>Skills Section</strong>: Highlight your key skills with visual indicators</li>
+      <li><strong>Portfolio Section</strong>: Showcase your work samples (optional)</li>
+      <li><strong>Downloadable vCard</strong>: Visitors can download your contact info as a .vcf file</li>
+      <li><strong>Light/Dark Mode</strong>: Toggle between color schemes</li>
+    </ul>
+    
+   <h2>File Structure</h2>
+    <pre> 
+      
+      ```
+    /vcard-portfolio/
+    ├── index.html          # Main HTML file
+    ├── css/
+    │   └── style.css       # Main stylesheet
+    ├── js/
+    │   └── script.js      # JavaScript functionality
+    ├── images/             # Folder for your profile images
+    └── assets/             # Additional assets (icons, fonts)
+    </pre>
+  </div>
+  
+  <div style="flex: 1; text-align: center;">
+    <a href="https://ibb.co/MxNJCRSS"><img src="https://i.ibb.co/MxNJCRSS/Screenshot-2025-06-13-23-09-23-677-com-android-chrome.png" alt="Screenshot-2025-06-13-23-09-23-677-com-android-chrome" border="0"></a>
+    
+  </div>
+</div>
 
-## Project Overview
-This is a modern, responsive vCard (virtual business card) portfolio website designed to showcase your professional identity online. It serves as a digital business card that can be easily shared with contacts.
+<h2>Setup Instructions</h2>
+<ol>
+  <li>Clone or download this repository</li>
+  <li>Edit the <code>index.html</code> file to include your personal information</li>
+  <li>Replace placeholder images in the <code>/images</code> folder with your own</li>
+  <li>Customize colors in <code>css/style.css</code> to match your brand</li>
+  <li>Upload to your web hosting service</li>
+</ol>
 
-## Features
-- **Responsive Design**: Works on all devices (desktop, tablet, mobile)
-- **Contact Information**: Display your email, phone, and social media links
-- **Skills Section**: Highlight your key skills with visual indicators
-- **Portfolio Section**: Showcase your work samples (optional)
-- **Downloadable vCard**: Visitors can download your contact info as a .vcf file
-- **Light/Dark Mode**: Toggle between color schemes
-
-## File Structure
-```
-/vcard-portfolio/
-├── index.html          # Main HTML file
-├── css/
-│   └── style.css       # Main stylesheet
-├── js/
-│   └── script.js       # JavaScript functionality
-├── images/             # Folder for your profile and project images
-└── assets/             # Additional assets (icons, fonts, etc.)
-```
-
-## Setup Instructions
-1. Clone or download this repository
-2. Edit the `index.html` file to include your personal information
-3. Replace placeholder images in the `/images` folder with your own
-4. Customize colors in `css/style.css` to match your brand
-5. Upload to your web hosting service
-
-## Customization Options
-- Change the color scheme in CSS variables
-- Add/remove sections as needed
-- Update social media links in the contact section
-- Modify the skills percentage indicators
-
-## Technologies Used
-- HTML5
-- CSS3 (Flexbox, Grid)
-- JavaScript (ES6)
-- Font Awesome icons
-- Google Fonts
+<h2>Technologies Used</h2>
+<ul>
+  <li>HTML5</li>
+  <li>CSS3 (Flexbox, Grid)</li>
+  <li>JavaScript (ES6)</li>
+  <li>Font Awesome icons</li>
+  <li>Google Fonts</li>
+</ul>
